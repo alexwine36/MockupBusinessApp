@@ -53,6 +53,9 @@ footer {
 	margin-left: auto;
 	margin-right: auto;
 }
+.jumbotron p .mdl-button.mdl-js-button.mdl-button--raised.mdl-js-ripple-effect.mdl-button--accent {
+	float: right;
+}
 
 /* Landscape layout (with min-width) */
 @media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
